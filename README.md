@@ -2,4 +2,4 @@
 - Unprofessional coder
 - Bad projects
 - Loves milk
-- $\No money\$
+- \$No money\$
